@@ -1,0 +1,13 @@
+{
+  "name": "eusebia-app",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
