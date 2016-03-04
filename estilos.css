@@ -1,0 +1,63 @@
+body{
+	background: pink;
+}
+.contenedor{
+	width: 960px;
+	margin: 0 auto;
+}
+.menu-lista{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+.menu-item{
+display: inline-block;
+}
+.menu-link{
+padding: 10px;
+border-radius: 10px
+}
+nav{
+	text-align: center;
+}
+.menu-link{
+	font-size: 18px;
+	background:orange;
+	color: black;
+	text-decoration: none;
+	
+}
+.menu-link:hover{
+text-decoration: underline;
+box-shadow: 5px 5px 15px black;
+transition: 0.5s;
+}
+.rojo{
+	color: red;
+	font-size: 30px
+}
+.verde{
+	color: green;
+	margin: 0 auto;
+	font-size: 30px;
+}
+.morado{
+	color: purple;
+	font-size: 30px
+}
+.negro{
+	color: black;
+	font-size: 25px;
+}
+.slider{
+	margin-top: 50px;
+}
+.digna{
+	border: 5px solid purple;
+	border-radius: 140px;
+}
+.marron{
+	color: brown;
+	font-size: 50px;
+	text-align: center;
+}
